@@ -110,28 +110,6 @@ public class Prateek {
 ---
 
 
-## 🧩 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/prateekrwt07?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" />
-
-</div>
-
----
-
-## 🔝 Featured Projects
-
-| Project | Stack | Links |
-|---|---|---|
-| 🤖 **ResumLyzer** — AI ATS Resume Analyzer | React, Node.js, MongoDB, Groq API | [GitHub](#) · [Live Demo](#) |
-| 📌 **Pinspire** — Image Sharing Platform | Node.js, Express.js, MongoDB, JWT | [GitHub](#) |
-| 📝 **DOCS Mini App** — Documentation Interface | React.js, JavaScript, CSS | [GitHub](#) |
-
-> 💡 **Tip:** Replace `#` with your actual repo/demo links above!
-
----
-
 ## 🌱 Currently Exploring
 
 ```text
