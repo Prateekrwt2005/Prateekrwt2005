@@ -90,35 +90,8 @@ public class Prateek {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekrwt2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Prateekrwt2005&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateekrwt2005&theme=tokyonight&hide_border=true&layout=compact" />
-
-</div>
-
----
 
 
-## 🌱 Currently Exploring
-
-```text
-├── 📦 System Design        →  Scalability · Load Balancing · Caching 
-├── 🔧 Advanced Backend     →  Microservices · REST APIs · JWT Auth 
-├── 🗃️  Databases           →  Query Optimization · Indexing · MongoDB · MySQL
-├── ☁️  DevOps              →  Docker · Vercel · Render · CI/CD
-└── 🧠 Core CS              →  DSA · OOP · DBMS · Operating Systems
-```
 
 
 ---
