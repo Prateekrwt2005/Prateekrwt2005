@@ -14,6 +14,9 @@
   <a href="https://github.com/Prateekrwt2005">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/prateekrwt07/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Prateekrwt2005&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
@@ -69,7 +72,6 @@ public class Prateek {
 ### Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![RESTful API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -77,7 +79,6 @@ public class Prateek {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 
 
 ### Tools & DevOps
@@ -95,24 +96,25 @@ public class Prateek {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prateekrwt2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekrwt2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Prateekrwt2005&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekrwt2005&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateekrwt2005&theme=tokyonight&hide_border=true&layout=compact" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+
+## 🧩 LeetCode Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prateekrwt2005&theme=dark&no-frame=false&no-bg=false&margin-w=8&column=4" />
+<img src="https://leetcard.jacoblin.cool/prateekrwt07?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" />
 
 </div>
 
@@ -126,19 +128,20 @@ public class Prateek {
 | 📌 **Pinspire** — Image Sharing Platform | Node.js, Express.js, MongoDB, JWT | [GitHub](#) |
 | 📝 **DOCS Mini App** — Documentation Interface | React.js, JavaScript, CSS | [GitHub](#) |
 
-
+> 💡 **Tip:** Replace `#` with your actual repo/demo links above!
 
 ---
 
 ## 🌱 Currently Exploring
 
 ```text
-├── 📦 System Design        →  Scalability · Load Balancing · Caching · CAP Theorem
-├── 🔧 Advanced Backend     →  Microservices · REST APIs · JWT Auth · RabbitMQ
+├── 📦 System Design        →  Scalability · Load Balancing · Caching 
+├── 🔧 Advanced Backend     →  Microservices · REST APIs · JWT Auth 
 ├── 🗃️  Databases           →  Query Optimization · Indexing · MongoDB · MySQL
 ├── ☁️  DevOps              →  Docker · Vercel · Render · CI/CD
 └── 🧠 Core CS              →  DSA · OOP · DBMS · Operating Systems
 ```
+
 
 ---
 
